@@ -1,0 +1,3 @@
+## configuration information
+
+need to set the stmp config in the .env file in the root dir
